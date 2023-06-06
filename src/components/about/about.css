@@ -1,0 +1,22 @@
+.about {
+    display: flex;
+    width: 1000px;
+    height: 700px;
+    margin: 70px;
+}
+
+h1 {
+    text-align: left;
+    margin-left: 40px;
+    font-size: 60px;
+}
+
+.title {
+    margin: 10px;
+}
+
+.paragrafo {
+    padding: 30px;
+    margin-top: 20px;
+    text-align: left;
+}
