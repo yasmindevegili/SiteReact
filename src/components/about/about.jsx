@@ -2,11 +2,11 @@ import React from "react";
 import "./about.css";
 function About() {
   return (
-    <div className="about">
+    <div className="wrapper">
         <div className="title">
-      <h1>Olá</h1>
+      <h1>Hello</h1>
       
-      <div className="paragrafo">
+      <div className="paragraph">
       <p>
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer id
         massa ante. Donec purus est, euismod eu purus nec, fringilla gravida
